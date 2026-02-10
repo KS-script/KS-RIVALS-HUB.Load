@@ -1,0 +1,5 @@
+--Thank you so much for using KS script.
+-- Please do not decrypt this script
+-- KS 스크립트를 사용해주셔서 정말 감사드립니다.
+-- 해당 스크립트를 복호화하지 말아주세요
+loadstring(game:HttpGet('https://raw.githubusercontent.com/KS-script/KS.Loader-/refs/heads/main/lua.Loader'))()
